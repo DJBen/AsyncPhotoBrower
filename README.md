@@ -5,7 +5,7 @@ High performance gallery designed for web images built with FastImageCache. It c
 
 ## Usage
 
-### Installation via Cocoapods
+### Installation via CocoaPods
 This is the recommended approach.
 
     pod 'AsyncPhotoBrowser', '~> 0.2.0'
